@@ -11,5 +11,5 @@ Este simple script te perimitira hacer spam donde quieras facil y sencillo
  
 > pip install -r requirements.txt
 
-> python3 Spammer7w7.py
+> python Spammer7w7.py
 
