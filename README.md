@@ -6,10 +6,10 @@ Este simple script te perimitira hacer spam donde quieras facil y sencillo
 
 ## Instalacion
 > git clone https://github.com/SrDeLasTinieblas/Spammer7w7
-> 
+ 
 > cd Spammer7w7
-> 
+ 
 > pip install -r requirements.txt
-> 
+
 > python3 Spammer7w7.py
 
